@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there...
+
+### I do Unity stuff eee
 
 <!--
 **WooshiiDev/WooshiiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
