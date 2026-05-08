@@ -1,15 +1,11 @@
 
 <p align="center">
+	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WooshiiDev&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true" alt="GitHub Streak" />
+	</a>
+</p>
 
-  <br>
-  <a href="
-    https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=WooshiiDev" alt="GitHub Streak" />
-  </a>
-  
-  <br>
-  
-  <a href="https://www.linkedin.com/in/damian-slocombe/">
+<p align="center">
+	<a href="https://www.linkedin.com/in/damian-slocombe/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<a href="mailto:wooshiidev@gmail.com">
