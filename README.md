@@ -1,8 +1,4 @@
 
-<p align="center">
-	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WooshiiDev&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true" alt="GitHub Streak" />
-	</a>
-</p>
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/damian-slocombe/">
